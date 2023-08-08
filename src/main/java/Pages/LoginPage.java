@@ -29,6 +29,7 @@ public class LoginPage {
 		password.sendKeys(pwd);
 		loginButton.click();
 		viewLink.click();
+		System.out.println("Test");
 		
 	}
 	
